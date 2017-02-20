@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NplusOne	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+movePlus			KEYWORD2
+moveNeg				KEYWORD2
+readPos				KEYWORD2
+home				KEYWORD2
+status				KEYWORD2
+home				KEYWORD2
+stop				KEYWORD2
+moveTo				KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+addr				LITERAL1
+steps				LITERAL1
+#######################################
